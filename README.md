@@ -1,7 +1,7 @@
 # Data_cleaning_using_Sql
 
 
-### The Project Is Mainly Bulding to Understand the Core Data Cleaning Process for Large Datasets
+### The Project Is Mainly Bulding to Understand the Core Data Cleaning Process for Large Datasets Using SQL
 
 #### Some of the Most Important Commands Which I have useded in this Project to Clean The Dataset
 
